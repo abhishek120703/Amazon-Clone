@@ -2,7 +2,6 @@
 
 *{
     margin: 0;
-    width: 100%;
     font-family: Arial, Helvetica, sans-serif;
     border: border-box;
 }
@@ -340,7 +339,7 @@ h2{
 }
 
 .img-b img{
-    height: 1500px;
+    height: 150px;
 }
 
 h3{
@@ -486,4 +485,5 @@ ul a{
     margin-top: 10px;
 
 }
+
 
